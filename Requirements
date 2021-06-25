@@ -1,0 +1,8 @@
+Modules needed:
+SpeechRecognition
+PyAudio
+Pyttsx3
+PyWhatKit
+
+Software:
+Python 3.6.6 version needed
